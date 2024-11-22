@@ -11,7 +11,7 @@ const about = {
   description:
     "I am an aspiring full-stack developer focused on MERN stack with experience in building responsive, interactive web applications. Passionate about learning new technologies and writing clean, efficient code.",
   resume:
-    "https://drive.google.com/file/d/1No9kbiWEJgaKZarEKZYW_QKPm9ccPUtJ/view?usp=sharing",
+    "https://drive.google.com/file/d/1_d6Pz38f6UpRw_vt7XMgoihJp7-AhyKy/view?usp=sharing",
   social: {
     linkedin: "https://linkedin.com/in/sankitdev",
     github: "https://github.com/sankitdev",
