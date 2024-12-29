@@ -3,18 +3,18 @@ import netflix from "./assets/Netflix.jpg";
 import focustube from "./assets/FocusTube.png";
 const header = {
   homepage: "",
-  title: "Ankit Singh",
+  title: "Tharmithan",
 };
 const about = {
-  name: "Ankit Singh",
+  name: "Tharmithan",
   role: ["FrontEnd Developer", "BackEnd Developer", "Full Stack Developer"],
   description:
     "I am an aspiring full-stack developer focused on MERN stack with experience in building responsive, interactive web applications. Passionate about learning new technologies and writing clean, efficient code.",
   resume:
-    "https://drive.google.com/file/d/1_d6Pz38f6UpRw_vt7XMgoihJp7-AhyKy/view?usp=sharing",
+    "https://drive.google.com/file/d/1dvEYjb9pfwfmeUxYcSTcv50cUQxBIRUa/view?usp=sharing",
   social: {
-    linkedin: "https://linkedin.com/in/sankitdev",
-    github: "https://github.com/sankitdev",
+    linkedin: "https://www.linkedin.com/in/tharmithan-n-3ba9441b7/",
+    github: "https://github.com/Tharmithan-N",
   },
 };
 const projects = [
@@ -61,7 +61,7 @@ const skills = [
   "Enzyme",
 ];
 const contact = {
-  email: "sankitdev.official@gmail.com",
+  email: "kumartharmi98@gmail.com",
 };
 
 export { header, about, projects, skills, contact };
