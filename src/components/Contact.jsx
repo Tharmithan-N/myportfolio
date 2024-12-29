@@ -1,7 +1,7 @@
 const Contact = () => {
-  const email = "sankitcoder@gmail.com";
+  const email = "kumartharmi98@gmail.com";
   const subject = "Inquiry from Portfolio";
-  const body = "Hello, I would like to get in touch regarding..."; // Replace with your email
+  const body = "Hello, I would like to get in touch regarding...";
 
   return (
     <div className="text-center my-20" id="contact">
@@ -21,7 +21,7 @@ const Contact = () => {
         <button className="btn btn-primary">📧 Email Me!</button>
       </a>
       <a
-        href="https://linkedin.com/in/sankitdev"
+        href="https://www.linkedin.com/in/tharmithan-n-3ba9441b7/"
         target="_blank"
         rel="noopener noreferrer"
       >

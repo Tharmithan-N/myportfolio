@@ -33,10 +33,6 @@ If you'd like to create your own version of this portfolio, you can **fork** thi
    Click the **Fork** button at the top-right corner of this page to copy the repository to your GitHub account.
 2. Clone the repository:
 
-   ```bash
-   git clone https://github.com/sankitdev/portfolio
-   ```
-
 3. Navigate to the project directory:
 
    ```bash
